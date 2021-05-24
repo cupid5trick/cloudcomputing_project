@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="192.168.43.129" id="41194daf-ebd1-44f7-8f74-fe87dbe6d030" port="22" nameFormat="DESCRIPTIVE" username="ccp" />
+      <sshConfig authType="OPEN_SSH" host="ccp1" id="ba420032-71df-4d09-99e1-d6c0c510eb33" port="22" nameFormat="DESCRIPTIVE" username="ccp" />
+    </configs>
+  </component>
+</project>

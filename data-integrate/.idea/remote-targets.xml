@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="ccp@ccp1:22" type="ssh/sftp">
+        <config>
+          <option name="projectRootOnTarget" value="/home/ccp/ccp-project/code/src" />
+          <option name="serverName" value="ccp@ccp1:22 agent" />
+        </config>
+        <ContributedStateBase type="JavaLanguageRuntime">
+          <config>
+            <option name="classpathFolder">
+              <VolumeState>
+                <option name="remotePath" value="/home/ccp/ccp-project/hadoop/lib" />
+              </VolumeState>
+            </option>
+            <option name="homePath" value="/usr/local/java/jdk1.8.0_101" />
+            <option name="javaVersionString" value="1.8.0_271" />
+          </config>
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
